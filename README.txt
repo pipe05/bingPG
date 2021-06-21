@@ -8,7 +8,7 @@ Design and Ideas: bonkbug#3241
 ---------------------------
 ----------How to-----------
 If you get a Error at line 8 please install the library "time"
-Due to programming and file limitations (or just laziness!) typing a option that does not exist (Like typing cheese to select a class).
+Due to programming and file limitations (or just laziness!) typing a option that does not exist (Like typing cheese to select a class) will crash the game.
 Options are usually inside brackets, like this -> [1] or [2]
 ---------------------------
 --------Bug reporting------
