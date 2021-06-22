@@ -18,12 +18,12 @@
 --------Bug reporting------
 * If you happen to find a bug please notify pipe05#7599 on discord.
 * Format:
-** >Error (Exception)
-** >What you did
-** >[A fix](optional)
+ * >Error (Exception)
+ * >What you did
+ * >[A fix](optional)
 
 * Example:
-** >[Error]File "C:\bingus.py", line 10, in <module> name = input("Insert a name:") KeyboardInterrupt 
-** >I pressed C^
-** >[A fix] don't press C^ :D
+ * >[Error]File "C:\bingus.py", line 10, in <module> name = input("Insert a name:") KeyboardInterrupt 
+ * >I pressed C^
+ * >[A fix] don't press C^ :D
 ---------------------------
