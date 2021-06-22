@@ -1,14 +1,14 @@
 # Installing
-# To install the game you should download the .zip file
-# Once downloaded extract the .zip file
-# If you did that correctly the game should run!
-Hello and Welcome to the text-based RPG bingPG!
+ To install the game you should download the .zip file
+ Once downloaded extract the .zip file
+ If you did that correctly the game should run!
+# Hello and Welcome to the text-based RPG bingPG!
 !!!!RUN THE GAME IN PYTHON3 OR HIGHER!!!!
 ----------Credits----------
 Programming: pipe05#7599
 Art and some Ideas: Cosmic#5422
 Design and Ideas: bonkbug#3241
-If making a mod please credit the original authors
+*If making a mod please credit the original authors*
 ---------------------------
 ----------How to-----------
 If you get a Error at line 8 please install the library "time"
