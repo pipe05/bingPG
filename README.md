@@ -16,8 +16,8 @@
 * Options are usually inside brackets, like this -> [1] or [2]
 ---------------------------
 --------Bug reporting------
-*If you happen to find a bug please notify pipe05#7599 on discord.
-*Format:
+* If you happen to find a bug please notify pipe05#7599 on discord.
+* Format:
 ** >Error (Exception)
 ** >What you did
 ** >[A fix](optional)
