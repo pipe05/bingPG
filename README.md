@@ -20,7 +20,7 @@
 * Format:
  * >Error (Exception)
  * >What you did
- * >[A fix](optional)
+ * >[A fix]
 
 * Example:
  * >[Error]File "C:\bingus.py", line 10, in <module> name = input("Insert a name:") KeyboardInterrupt 
