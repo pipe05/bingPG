@@ -8,7 +8,7 @@
 * Programming: pipe05#7599
 * Art and some Ideas: Cosmic#5422
 * Design and Ideas: bonkbug#3241
-*If making a mod please credit the original authors*
+* *If making a mod please credit the original authors*
 ---------------------------
 ----------How to-----------
 * If you get a Error at line 8 please install the library "time"
