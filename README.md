@@ -1,7 +1,7 @@
 # Installing
- To install the game you should download the .zip file
- Once downloaded extract the .zip file
- If you did that correctly the game should run!
+* To install the game you should download the .zip file
+* Once downloaded extract the .zip file
+* If you did that correctly the game should run!
 # Hello and Welcome to the text-based RPG bingPG!
 !!!!RUN THE GAME IN PYTHON3 OR HIGHER!!!!
 ----------Credits----------
